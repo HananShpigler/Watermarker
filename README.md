@@ -8,6 +8,6 @@
 ##### 4. In the terminal type ***`pip3 install PyPDF2==1.26`*** to install the required package #####
 ##### 5. In the terminal type ***`python watermarker_script.py`*** to start the process #####
 
-###### 🗎 *Enjoy merging pdf files !!* 🗎 ######
+###### 🗎 *Enjoy watermarking your PDFs !!* 🗎 ######
 
 
